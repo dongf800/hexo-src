@@ -13,7 +13,8 @@ menu:
 widgets: 
 - category
 - tag
-- rss
+- links
+##- rss
 ## provide six widgets:category,tag,rss,archive,tagcloud,links.
 ## modify links in `/layout/_widget/links.ejs`.
 
@@ -67,13 +68,13 @@ author:
 
 #### Comment
 duoshuo: 
-  enable: false  ## duoshuo.com
-  short_name:    ## duoshuo short name.
+  enable: true  ## duoshuo.com
+  short_name: dongf800   ## duoshuo short name.
 
 #### Share button
 jiathis:
-  enable: false ## if you use jiathis as your share tool,the built-in share tool won't be display.
-  id:    ## e.g. 1501277 your jiathis ID. 
+  enable: true ## if you use jiathis as your share tool,the built-in share tool won't be display.
+  id: 1894736   ## e.g. 1501277 your jiathis ID. 
   tsina: ## e.g. 1664838973 Your weibo id,It will be used in share button.
 
 #### Analytics
