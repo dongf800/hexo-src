@@ -9,8 +9,8 @@
      <% if(item.description){ %>
       <p itemprop="description" ><%- item.description %></p>
       <% } else if(item.excerpt){ %>
-              <% if (item.updated) { %> 
-                    <p><img src="<%=item.updated %>"></p>
+              <% if (item.photos) { %> 
+                    <p><img src="<%=item.photos %>"></p>
               <%}%>
               <p><%= strip_html(item.excerpt).replace(/^\s*/, '').replace(/\s*$/, '').substring(0, 150) %></p>
       <% } else {%>
