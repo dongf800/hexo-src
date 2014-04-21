@@ -3,16 +3,16 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: dongf800's blog
+title: fenxiang gushi
 subtitle: Walk steps step by step
 description: 感兴趣的故事与图片
 author: dongf800
-email:
+email: 1067431922@qq.com
 language: zh-CN
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://dongf800.github.io
+url: http://fenxianggushi.github.io
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
@@ -104,5 +104,5 @@ markdown:
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
   type: github
-  repository: git@github.com:dongf800/dongf800.github.io.git
+  repository: git@github.com:fenxianggushi/fenxianggushi.github.io.git
   branch: master
