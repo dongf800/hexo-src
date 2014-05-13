@@ -3,16 +3,16 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: 焦点故事和图片
+title: 美食&服饰
 subtitle: Walk steps step by step
-description: 在网络上阅读最新的故事，并与其他人讨论
+description: 在网络上阅读最新的故事并与他人分享美食
 author: dongf800
 email: 1067431922@qq.com
 language: zh-CN
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://fenxianggushi.github.io
+url: http://www.dafuhao5688.com
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
